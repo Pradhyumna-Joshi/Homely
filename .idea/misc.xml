@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/add_to_googlepay_button_content.xml" value="0.119" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/btn_bg1.xml" value="0.188" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/btn_bg2.xml" value="0.188" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/btn_bg_form.xml" value="0.188" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/btn_bg_form1.xml" value="0.188" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/googlepay_button_background_shape.xml" value="0.119" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1585" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable-v24/pay_with_googlepay_button_content.xml" value="0.119" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/bg.xml" value="0.119" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/btn_bg.xml" value="0.1155" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/ic_home.xml" value="0.1155" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1585" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/ic_next.xml" value="0.188" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/ic_person.xml" value="0.1155" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/ic_profile.xml" value="0.119" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/ic_wave.xml" value="0.188" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/drawable/ic_wave1.xml" value="0.188" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/font/customfont.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/font/productsans.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/custom_dialog_delete.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/custom_success_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/dropdown_item.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_add_stay.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_blank.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_edit_facilites.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_edit_stay.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_facilites.xml" value="0.26974198592650506" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_forget_password.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_item_stay.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_item_stay_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_login_intro.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_owner__dash_board.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_owner__dashboard.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_owner_form.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/fragment_tenant__dash_board.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/item_stay.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/layout_chooser.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/pay_with_googlepay_button.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/plain_googlepay_button.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/layout/s.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/menu/bottom_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/xml/filepaths.xml" value="0.1796875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Homely/app/src/main/res/xml/network_security_config.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
